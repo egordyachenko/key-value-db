@@ -16,3 +16,6 @@ serde_derive = "1"
 name = "kvdb"
 
 
+[[bin]]
+name = "kvdb_mem"
+path = "src/kvdb_mem.rs"
